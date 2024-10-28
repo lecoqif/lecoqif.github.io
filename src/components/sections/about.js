@@ -135,14 +135,18 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! I’m Abhay, a backend engineer with a passion for building robust, global-scale systems. 
-              Engineering has always been my thing, whether it's crafting efficient code or figuring out how complex systems tick.
+              Hello! I’m Abhay, a backend engineer with a passion for building robust, global-scale
+              systems. Engineering has always been my thing, whether it's crafting efficient code or
+              figuring out how complex systems tick.
             </p>
 
             <p>
-              I've had the opportunity to work at some of the biggest tech companies, like Facebook and Amazon, 
-              and I’m currently diving into the world of quant finance at Optiver. 
-              This site is my space to document my journey into indie hacking and personal projects (starting with this website itself).
+              I've had the opportunity to work at some of the biggest tech companies, like Facebook
+              and Amazon, and I’m currently diving into the world of quant finance at Optiver.
+            </p>
+            <p>
+              This site is my space to document my journey into indie hacking and personal projects
+              (starting with this website itself).
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
